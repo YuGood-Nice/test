@@ -1,5 +1,5 @@
 FROM java:8
-EXPOSE 8080
+EXPOSE 8081
 
 VOLUME /tmp
 ADD renren-fast.jar  /app.jar
